@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 💻 My tech stack: HTML, CSS, JavaScript, ReactJS, Node.js, Express, MySQL
-- 🔭 I’m currently working on Whatsapp Web clone
-- 
+
 <!--
 **Stavush/Stavush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
