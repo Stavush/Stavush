@@ -1,6 +1,8 @@
 ### Hi there 👋
+I'm Stav, a self-learner full-stack developer
 
-- 💻 My tech stack: HTML, CSS, JavaScript, ReactJS, Node.js, Express, MySQL
+💻My tech stack💻 
+HTML, CSS, JavaScript, ReactJS, Node.js, Express, MySQL, Python
 
 <!--
 **Stavush/Stavush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
