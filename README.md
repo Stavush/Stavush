@@ -3,7 +3,7 @@ I'm Stav, a self-learner full-stack developer
 
 
 ### 💻 Tech Stack 💻
-* HTML, 
+* HTML
 * CSS
 * JavaScript
 * ReactJS
