@@ -1,8 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 I'm Stav, a self-learner full-stack developer
 
-💻My tech stack💻 
-HTML, CSS, JavaScript, ReactJS, Node.js, Express, MySQL, Python
+
+### 💻 Tech Stack 💻
+* HTML, 
+* CSS
+* JavaScript
+* ReactJS
+* Node.js
+* Express
+* MySQL
+* Python
+
+
+### 👾 Games 👾
+
+Civilization VI | GTA | Assassin's Creed 
 
 <!--
 **Stavush/Stavush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
