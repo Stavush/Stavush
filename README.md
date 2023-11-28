@@ -3,15 +3,15 @@ I'm Stav, a self-learner full-stack developer
 
 
 ### 💻 Tech Stack 💻
-* HTML
-* CSS
+* Python
 * JavaScript
+* C#
 * ReactJS
 * Node.js
 * Express
 * MySQL
-* Python
-
+* HTML
+* CSS
 
 ### 👾 Games 👾
 
